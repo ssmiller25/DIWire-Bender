@@ -42,7 +42,7 @@ An Arduino program imports the bend angles and feed lengths from a processing sc
 
 > ___Bill of Materials___: Excel and Markdown files provided.
 
-> ___Instructable___: <http://www.instructables.com/id/DIWire-Bender/>
+> ___Instructable___: <http://www.instructables.com/id/DIWire-Bender/> or [PDF](DIWire-Bender.pdf)
 
 > ___Construction Video___: <https://vimeo.com/44274793>
 
